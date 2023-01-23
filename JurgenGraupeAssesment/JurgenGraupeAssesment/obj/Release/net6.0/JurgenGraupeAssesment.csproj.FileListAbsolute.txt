@@ -1,0 +1,17 @@
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\bin\Release\net6.0\JurgenGraupeAssesment.exe
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\bin\Release\net6.0\JurgenGraupeAssesment.deps.json
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\bin\Release\net6.0\JurgenGraupeAssesment.runtimeconfig.json
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\bin\Release\net6.0\JurgenGraupeAssesment.dll
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\bin\Release\net6.0\JurgenGraupeAssesment.pdb
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\bin\Release\net6.0\NetTopologySuite.dll
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\obj\Release\net6.0\JurgenGraupeAssesment.csproj.AssemblyReference.cache
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\obj\Release\net6.0\JurgenGraupeAssesment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\obj\Release\net6.0\JurgenGraupeAssesment.AssemblyInfoInputs.cache
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\obj\Release\net6.0\JurgenGraupeAssesment.AssemblyInfo.cs
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\obj\Release\net6.0\JurgenGraupeAssesment.csproj.CoreCompileInputs.cache
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\obj\Release\net6.0\JurgenGraupeAssesment.csproj.CopyComplete
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\obj\Release\net6.0\JurgenGraupeAssesment.dll
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\obj\Release\net6.0\refint\JurgenGraupeAssesment.dll
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\obj\Release\net6.0\JurgenGraupeAssesment.pdb
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\obj\Release\net6.0\JurgenGraupeAssesment.genruntimeconfig.cache
+D:\Repo\JurgenGraupeAssesment\JurgenGraupeAssesment\obj\Release\net6.0\ref\JurgenGraupeAssesment.dll

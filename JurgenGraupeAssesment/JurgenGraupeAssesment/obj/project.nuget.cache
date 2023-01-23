@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "64Fh9LCLnHLCy6Ol0U+2VNE49RV2Y1OqFACnc1itFaR5xUvwuW7pnCnC7Ux771kJnUzRKHoZR2nl8nbwZmxtIA==",
+  "success": true,
+  "projectFilePath": "D:\\Repo\\JurgenGraupeAssesment\\JurgenGraupeAssesment\\JurgenGraupeAssesment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\graup\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
+    "C:\\Users\\graup\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
