@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repo\\JurgenGraupeAssesment\\JurgenGraupeAssesment\\JurgenGraupeAssesment.csproj": {}
+    "D:\\Repo\\Assesment\\JurgenGraupeAssesment\\JurgenGraupeAssesment\\JurgenGraupeAssesment.csproj": {}
   },
   "projects": {
-    "D:\\Repo\\JurgenGraupeAssesment\\JurgenGraupeAssesment\\JurgenGraupeAssesment.csproj": {
+    "D:\\Repo\\Assesment\\JurgenGraupeAssesment\\JurgenGraupeAssesment\\JurgenGraupeAssesment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repo\\JurgenGraupeAssesment\\JurgenGraupeAssesment\\JurgenGraupeAssesment.csproj",
+        "projectUniqueName": "D:\\Repo\\Assesment\\JurgenGraupeAssesment\\JurgenGraupeAssesment\\JurgenGraupeAssesment.csproj",
         "projectName": "JurgenGraupeAssesment",
-        "projectPath": "D:\\Repo\\JurgenGraupeAssesment\\JurgenGraupeAssesment\\JurgenGraupeAssesment.csproj",
+        "projectPath": "D:\\Repo\\Assesment\\JurgenGraupeAssesment\\JurgenGraupeAssesment\\JurgenGraupeAssesment.csproj",
         "packagesPath": "C:\\Users\\graup\\.nuget\\packages\\",
-        "outputPath": "D:\\Repo\\JurgenGraupeAssesment\\JurgenGraupeAssesment\\obj\\",
+        "outputPath": "D:\\Repo\\Assesment\\JurgenGraupeAssesment\\JurgenGraupeAssesment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\graup\\AppData\\Roaming\\NuGet\\NuGet.Config",
